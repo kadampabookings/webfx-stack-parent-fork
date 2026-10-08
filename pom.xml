@@ -32,7 +32,7 @@
 
     <properties>
 
-        <hirakicp.version>6.2.1</hirakicp.version>
+        <hirakicp.version>7.1.0</hirakicp.version>
         <javawebsocket.version>1.6.0</javawebsocket.version>
         <!-- scram-client is declared directly by webfx-stack-db-querysubmit-vertx (version-less), and
              that direct dependency decides the version the server runs: keep it the version
